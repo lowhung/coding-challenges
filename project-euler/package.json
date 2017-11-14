@@ -1,0 +1,26 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "All project euler algorithms, could be useful in the future. ",
+  "main": "fibonacci-even-nums.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hounslow/coding-challenges.git"
+  },
+  "keywords": [
+    "project",
+    "euler"
+  ],
+  "author": "Matthew Hounslow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hounslow/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/hounslow/coding-challenges#readme",
+  "dependencies": {
+    "mathjs": "^3.16.5"
+  }
+}
