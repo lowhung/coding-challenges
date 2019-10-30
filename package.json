@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/hounslow/coding-challenges#readme",
   "dependencies": {
-    "mathjs": "^3.16.5"
+    "mathjs": "^3.17.0"
   }
 }
